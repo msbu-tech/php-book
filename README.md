@@ -1,3 +1,3 @@
-# My Awesome Book
+# PHP Book
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这是一本 PHP 进阶教程，并不是为 PHP 初学者设计。
