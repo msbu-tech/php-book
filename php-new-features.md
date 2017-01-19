@@ -6,6 +6,8 @@ TODO
 
 ## 特性: `traits`
 
+PHP 自 5.4 版本开始，引入了 [`traits`](http://php.net/manual/en/language.oop5.traits.php)。Traits 是一种代码复用机制
+
 ## 特性: 闭包
 
 
