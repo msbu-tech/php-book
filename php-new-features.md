@@ -16,5 +16,5 @@ PHP 自 5.4 版本开始，引入了 [`traits`](http://php.net/manual/en/languag
 
 ## 特性: 闭包
 
-PHP 自 5.3 版本开始，引入了[闭包](http://php.net/manual/en/class.closure.php)
+PHP 自 5.3 版本开始，引入了[闭包](http://php.net/manual/en/class.closure.php)，也就是匿名函数。
 
