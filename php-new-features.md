@@ -1,10 +1,12 @@
+![](/assets/timg.jpeg)
+
 # PHP 新特性
 
 TODO
 
 ## 特性: 命名空间 `namespace`
 
-
+PHP 自 5.3 版本开始，引入了命名空间 ( [`namespace`](http://php.net/manual/en/language.namespaces.php) ) 
 
 ## 特性: `traits`
 
